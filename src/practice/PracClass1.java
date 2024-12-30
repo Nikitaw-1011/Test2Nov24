@@ -3,7 +3,7 @@ package practice;
 public class PracClass1 {
 
 	public static void main(String[] args) {
-		System.out.println("Hello_Class1");
+		System.out.println("Hello_Class1, on branch A changes");
 
 	}
 
