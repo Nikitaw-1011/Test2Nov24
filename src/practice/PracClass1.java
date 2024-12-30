@@ -3,7 +3,7 @@ package practice;
 public class PracClass1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Hello_Class1");
 
 	}
 
